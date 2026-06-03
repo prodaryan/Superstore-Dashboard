@@ -76,28 +76,4 @@ The dataset was cleaned and processed before visualization by:
 - Converting date columns
 - Creating time-based features for trend analysis
 
----
-
-# 📷 Dashboard Preview
-
-## Main Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
-
-## KPI Overview
-![KPI Screenshot](screenshots/kpi.png)
-
-## Sales Analysis
-![Sales Analysis](screenshots/sales_analysis.png)
-
----
-
-# 📂 Project Structure
-
-```bash
-superstore-dashboard/
-│
-├── screenshots/
-├── Sample - Superstore.csv
-├── Superstore_Sales_Analytics_Dashboard.ipynb
-├── README.md
 └── requirements.txt
